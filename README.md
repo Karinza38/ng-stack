@@ -1,4 +1,4 @@
-# @ng-stack
+ # @ng-stack
 
 This Angular library contains two projects:
 - [@ng-stack/forms](./projects/forms) - provides wrapped Angular's Reactive Forms to write its more strongly typed.
