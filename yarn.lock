@@ -186,10 +186,10 @@
   dependencies:
     tslib "^2.3.0"
 
-"@angular/core@14.2.0":
-  version "14.2.0"
-  resolved "https://registry.npmjs.org/@angular/core/-/core-14.2.0.tgz"
-  integrity sha512-m00WZL+df90QjrNmA43W8oSP1hyePoEXgw36JcFLQ+2ISO1HvqoeuKXIccyIQKpCuQ9VLNv5ptlTio6pjmcCqg==
+"@angular/core@14.3.0":
+  version "14.3.0"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-14.3.0.tgz#7f44c59b6e866fa4cee7221495040c1ead433895"
+  integrity sha512-wYiwItc0Uyn4FWZ/OAx/Ubp2/WrD3EgUJ476y1XI7yATGPF8n9Ld5iCXT08HOvc4eBcYlDfh90kTXR6/MfhzdQ==
   dependencies:
     tslib "^2.3.0"
 
